@@ -1,0 +1,8 @@
+
+{
+  "name": "Ramadan BD - Your Ultimate Ramadan Companion",
+  "description": "A comprehensive Islamic application tailored for Bangladesh, featuring precise prayer times, Ibadah tracking, Zakat calculation, and community donations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
